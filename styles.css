@@ -9260,6 +9260,16 @@ section.home-banner.blogs_page .video-container {
     background-size: contain;
 }
 
+
+section.home-banner.article_page {
+    min-height: auto;
+    height: 75vh;
+}
+
+section.home-banner.article_page .banner-content .banner-block {
+    bottom: 210px;
+}
+
 .articles-banner,
 .more_articles {
     z-index: 4;
